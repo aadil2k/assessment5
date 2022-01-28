@@ -1,0 +1,120 @@
+/* *{
+    margin: 0px;
+    padding: 0%;
+} */
+body{
+    border: 7px groove greenyellow;
+    /* background-color: darkturquoise;
+    opacity: 0.1px; */
+    background-image: url(./bg4.jpg);
+    /* background-repeat: no-repeat; */
+    /* overflow: ; */
+    margin: 0%;
+    /* background-repeat: repeat-x; */
+    background-size: cover;
+}
+.box{
+    color: white;
+    display: inline-block;
+    border:5px solid red;
+    height: 145px;
+    width: 343px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: black;
+    
+}
+#box3{
+    margin-top: 10px;
+}
+.box2{
+    color: white;
+    display: inline-block;
+    border:5px solid red;
+    height: 55px;
+    width: 430px;
+    border-radius: 30px;
+    background-color: black;
+    margin-top: 10px;
+    position: relative;
+    top: -38px;
+    left: -160px;
+}
+p{
+    font-size: 25px;
+    line-height: 45px;
+    margin-top: 10px;
+}
+.menu1{
+    margin: auto;
+    padding: 10px;
+    margin-top: 50px;
+    display: block;
+    color: white;
+    display: inline-block;
+    border:5px solid red;
+    height: 55px;
+    width: 430px;
+    border-radius: 30px;
+    background-color: black;
+    margin-top: 10px;
+}
+.box4{
+    display: inline-block;
+    background-color: rgb(11, 206, 180);
+    border: 5px solid gray;
+    border-radius: 50%;
+    height: 330px;
+    width: 330px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.p1{
+    font-size: 20px;
+    margin-top: 32px;
+    text-decoration: underline;
+}
+.box5{
+    display: inline-block;
+    border: 5px dashed red;
+    width: 360px;
+    height: 650px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+#b1{
+    color: tomato;
+    font-size: 28px;
+    margin-top: 30px;
+}
+/* .label{
+    margin-top: 20px;
+    padding-top: 20px;
+} */
+label{
+    font-size: 20px;
+    color: tomato;
+}
+#menu{
+    margin: auto;
+    padding: 10px;
+    margin-top: 50px;
+    display: block;
+}
+.menu{
+    color: blue;
+    display: inline-block;
+    background-color: rgb(26, 235, 224);
+    height: 100px;
+    width: 100px;
+    border: 5px solid green;
+    border-radius: 30px;
+    height: 300px;
+    width: 315px;
+    margin: 40px;
+}
+#list{
+    margin-top: 20px;
+    font-size: 35px;
+}
